@@ -1,0 +1,2 @@
+../Core/Src/frequency_functions.c:14:6:init_synthesizers	16	static
+../Core/Src/frequency_functions.c:41:6:process_synthesizers	64	static

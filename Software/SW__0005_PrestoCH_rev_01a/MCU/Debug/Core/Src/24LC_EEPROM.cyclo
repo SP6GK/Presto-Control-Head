@@ -1,0 +1,17 @@
+../Core/Src/24LC_EEPROM.c:22:19:EEPROM_Write	4
+../Core/Src/24LC_EEPROM.c:68:19:EEPROM_Read	1
+../Core/Src/24LC_EEPROM.c:77:19:EEPROM_Check	1
+../Core/Src/24LC_EEPROM.c:86:9:EEPROM_Read_MB	5
+../Core/Src/24LC_EEPROM.c:165:9:EEPROM_Read_CH	5
+../Core/Src/24LC_EEPROM.c:259:9:EEPROM_Read_LO1	3
+../Core/Src/24LC_EEPROM.c:323:9:EEPROM_Read_LO2	3
+../Core/Src/24LC_EEPROM.c:387:10:EEPROM_Calculate_CRC	4
+../Core/Src/24LC_EEPROM.c:418:6:I2C_Scan	4
+../Core/Src/24LC_EEPROM.c:435:19:PEEK	1
+../Core/Src/24LC_EEPROM.c:452:19:POKE	1
+../Core/Src/24LC_EEPROM.c:461:19:POKE32	1
+../Core/Src/24LC_EEPROM.c:472:19:POKE64	2
+../Core/Src/24LC_EEPROM.c:485:10:MB_NV_compute_crc32	1
+../Core/Src/24LC_EEPROM.c:502:17:read_u16_le	1
+../Core/Src/24LC_EEPROM.c:507:17:read_u32_le	1
+../Core/Src/24LC_EEPROM.c:514:17:read_u64_le	1

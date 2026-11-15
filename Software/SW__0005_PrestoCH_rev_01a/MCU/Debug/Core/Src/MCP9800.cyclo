@@ -1,0 +1,4 @@
+../Core/Src/MCP9800.c:12:6:MCP9800_init	1
+../Core/Src/MCP9800.c:60:10:MCP9800_read_raw_temperature	2
+../Core/Src/MCP9800.c:75:7:MCP9800_read_temperature	5
+../Core/Src/MCP9800.c:102:10:convert_flotat_2sComplement	7

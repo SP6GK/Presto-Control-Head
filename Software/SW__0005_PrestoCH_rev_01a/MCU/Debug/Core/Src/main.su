@@ -1,0 +1,12 @@
+../Core/Src/main.c:97:5:main	8	static
+../Core/Src/main.c:181:6:SystemClock_Config	88	static
+../Core/Src/main.c:225:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:268:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/main.c:274:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/main.c:293:6:testScreenFill	16	static
+../Core/Src/main.c:303:6:testScreenLines	56	static
+../Core/Src/main.c:327:6:testScreenRects	40	static
+../Core/Src/main.c:346:6:testScreenCircles	48	static
+../Core/Src/main.c:385:6:testScreenText	48	static
+../Core/Src/main.c:409:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/main.c:438:6:Error_Handler	4	static,ignoring_inline_asm

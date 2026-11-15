@@ -1,0 +1,9 @@
+../Core/Src/GPIO_expander.c:16:6:Set_TX_Relay	16	static
+../Core/Src/GPIO_expander.c:19:6:Set_PA_EN	16	static
+../Core/Src/GPIO_expander.c:22:6:Set_LNB_Pol	16	static
+../Core/Src/GPIO_expander.c:25:6:Set_LNB_EN	16	static
+../Core/Src/GPIO_expander.c:28:6:Set_OUT1	16	static
+../Core/Src/GPIO_expander.c:32:6:Set_OUT2	16	static
+../Core/Src/GPIO_expander.c:37:6:Get_LNB_FLT	16	static
+../Core/Src/GPIO_expander.c:41:6:Get_PTT_State	16	static
+../Core/Src/GPIO_expander.c:46:6:process_GPIO_expander	16	static

@@ -1,0 +1,5 @@
+../Core/Src/TCA9554.c:13:6:TCA9554_init	16	static
+../Core/Src/TCA9554.c:19:9:TCA9554_set_pin	24	static
+../Core/Src/TCA9554.c:40:6:TCA9554_read_pin	24	static
+../Core/Src/TCA9554.c:53:9:TCA9554_write	40	static
+../Core/Src/TCA9554.c:64:9:TCA9554_read	40	static

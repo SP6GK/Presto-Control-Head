@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:135:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:187:6:Main_task_start	7
+../Core/Src/freertos.c:346:6:ADC_task_start	7
+../Core/Src/freertos.c:449:15:screen	1
+../Core/Src/freertos.c:442:6:Display_task_start	50
+../Core/Src/freertos.c:758:6:Communication_task_start	5

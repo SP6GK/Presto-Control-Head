@@ -1,0 +1,3 @@
+../Core/Src/MCP4725.c:14:6:MCP4725_SetValue	32	static
+../Core/Src/MCP4725.c:34:6:MCP4725_SetValueSetEEPROM	16	static
+../Core/Src/MCP4725.c:38:6:MCP4725_Read	16	static

@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:135:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:187:6:Main_task_start	40	static
+../Core/Src/freertos.c:346:6:ADC_task_start	88	static
+../Core/Src/freertos.c:449:15:screen	16	static
+../Core/Src/freertos.c:442:6:Display_task_start	240	static
+../Core/Src/freertos.c:758:6:Communication_task_start	24	static

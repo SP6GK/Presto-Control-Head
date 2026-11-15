@@ -1,0 +1,17 @@
+../Core/Src/24LC_EEPROM.c:22:19:EEPROM_Write	72	static
+../Core/Src/24LC_EEPROM.c:68:19:EEPROM_Read	48	static
+../Core/Src/24LC_EEPROM.c:77:19:EEPROM_Check	24	static
+../Core/Src/24LC_EEPROM.c:86:9:EEPROM_Read_MB	96	static
+../Core/Src/24LC_EEPROM.c:165:9:EEPROM_Read_CH	168	static
+../Core/Src/24LC_EEPROM.c:259:9:EEPROM_Read_LO1	168	static
+../Core/Src/24LC_EEPROM.c:323:9:EEPROM_Read_LO2	168	static
+../Core/Src/24LC_EEPROM.c:387:10:EEPROM_Calculate_CRC	168	static
+../Core/Src/24LC_EEPROM.c:418:6:I2C_Scan	24	static
+../Core/Src/24LC_EEPROM.c:435:19:PEEK	56	static
+../Core/Src/24LC_EEPROM.c:452:19:POKE	24	static
+../Core/Src/24LC_EEPROM.c:461:19:POKE32	24	static
+../Core/Src/24LC_EEPROM.c:472:19:POKE64	56	static
+../Core/Src/24LC_EEPROM.c:485:10:MB_NV_compute_crc32	56	dynamic
+../Core/Src/24LC_EEPROM.c:502:17:read_u16_le	16	static
+../Core/Src/24LC_EEPROM.c:507:17:read_u32_le	16	static
+../Core/Src/24LC_EEPROM.c:514:17:read_u64_le	144	static
